@@ -1,0 +1,18 @@
+{
+  "label": "warm hourly (reference fixture)",
+  "notes": "Synthetic fixture derived from scrubbed production timings. Not a live measurement.",
+  "connect_seconds": 2,
+  "db_backup_seconds": 305,
+  "files_sync_seconds": 1248,
+  "total_seconds": 1582,
+  "db_gzip_bytes": 260046848,
+  "files_logical_bytes": 14260633600,
+  "files_delta_bytes": 7969177,
+  "retention": 24,
+  "vault_monthly_usd": 26,
+  "comparisons": {
+    "in_app_plugin_worker_contention": true,
+    "origin_temp_dump_required": false,
+    "pull_based": true
+  }
+}

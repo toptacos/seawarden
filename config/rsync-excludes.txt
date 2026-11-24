@@ -1,0 +1,13 @@
+cache/
+*.log
+node_modules/
+.git/
+.svn/
+tmp/
+temp/
+jetpack-temp/
+upgrade/
+uploads/wc-logs/
+*.sql
+*.sql.gz
+.DS_Store
